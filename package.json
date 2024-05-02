@@ -1,0 +1,13 @@
+{
+  "name": "rate_limited_calculator",
+  "module": "index.ts",
+  "type": "module",
+  "author": {
+    "name": "Pranta Saha",
+    "email": "pranta1204@gmail.com"
+  },
+  "scripts": {
+    "start": "bun run index.ts",
+    "test": "bun test"
+  }
+}
